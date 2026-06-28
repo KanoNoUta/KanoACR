@@ -1,0 +1,15 @@
+﻿{
+    "author":  "KANO",
+    "version":  "1.1",
+    "description":  "KANO - FFXIV 暗黑骑士 ACR 自动循环",
+    "supportedJobs":  [
+                          {
+                              "contentScope":  "Unspecified",
+                              "job":  "DRK"
+                          }
+                      ],
+    "apiVersion":  15,
+    "referencePromeVersion":  "1.5.3.2",
+    "downloadUrl":  "https://raw.githubusercontent.com/KanoNoUta/KanoACR/release/KANO.zip",
+    "sha256":  "d21e73b17f8eba3105cd42b136b9b9b11d71b01103d26d8815425d6043b6c0f3"
+}

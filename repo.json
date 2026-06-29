@@ -1,4 +1,4 @@
-﻿{
+{
     "author":  "KANO",
     "version":  "1.2",
     "description":  "KANO - FFXIV Dark Knight ACR",
@@ -10,6 +10,6 @@
                       ],
     "apiVersion":  15,
     "referencePromeVersion":  "1.5.3.2",
-    "downloadUrl":  "https://github.com/KanoNoUta/KanoACR/releases/latest/download/KANO.zip",
+    "downloadUrl":  "https://github.com/KanoNoUta/KanoACR/releases/download/v1.2/KANO.zip",
     "sha256":  "190f21bb2c2c94d642bfd7f7bc1d9dd1545c80d5c6809225414290121e8fbf0f"
 }

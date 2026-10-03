@@ -1,15 +1,15 @@
 {
-    "author":  "KANO",
-    "version":  "1.2.3",
-    "description":  "KANO - FFXIV Dark Knight ACR",
-    "supportedJobs":  [
-                          {
-                              "contentScope":  "HighEnd",
-                              "job":  "DRK"
-                          }
-                      ],
-    "apiVersion":  15,
-    "referencePromeVersion":  "1.5.8.1",
-    "downloadUrl":  "https://github.com/KanoNoUta/KanoACR/releases/download/v1.2.3/KANO.zip",
-    "sha256":  "8d2427147c7ee9f81a214f8485df49846a2ef2d04e8c46d1bd5401026ca69df0"
+  "author": "KANO",
+  "version": "1.2.4",
+  "description": "KANO - FFXIV Dark Knight ACR",
+  "supportedJobs": [
+    {
+      "contentScope": "HighEnd",
+      "job": "DRK"
+    }
+  ],
+  "apiVersion": 15,
+  "referencePromeVersion": "1.5.10.4",
+  "downloadUrl": "https://github.com/KanoNoUta/KanoACR/releases/download/v1.2.4/KANO.zip",
+  "sha256": "905569087ac6c50456241d6a5210e39ab8faa0bd025086adb0fc913ebd908a84"
 }

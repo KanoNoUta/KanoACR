@@ -1,6 +1,6 @@
 {
   "author": "KANO",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "KANO - FFXIV Dark Knight ACR",
   "supportedJobs": [
     {
@@ -10,6 +10,6 @@
   ],
   "apiVersion": 15,
   "referencePromeVersion": "1.5.10.4",
-  "downloadUrl": "https://github.com/KanoNoUta/KanoACR/releases/download/v1.2.4/KANO.zip",
-  "sha256": "905569087ac6c50456241d6a5210e39ab8faa0bd025086adb0fc913ebd908a84"
+  "downloadUrl": "https://raw.githubusercontent.com/KanoNoUta/KanoACR/6deea0d9e6e888b680004e9e7fc2e63243a58ffb/KANO.zip",
+  "sha256": "6857ae06d09142e4094dd26d9890b0d9c101816b8cb05592cfb9412310ab5e68"
 }
